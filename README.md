@@ -92,6 +92,8 @@ I would suggest two point if improvement:
 Trying several classification models, and choose the best one.
 while defining the pure transaction dataset, I could have added the logic to identify transactions that were made after the period of offer influence defined in the portfolio dataset.
 
+*Link to Medium Post:
+https://lama-alshegri.medium.com/starbucks-capstone-project-an-attempt-to-optimize-offers-f8054abd8ed1
 
 
 
