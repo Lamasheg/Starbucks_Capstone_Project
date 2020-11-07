@@ -87,10 +87,11 @@ The followed approach to answer the above mentioned questions were, as follows:
 14. Total revenue generated from pure transactions is $261236.
 15. Mostly male adults earning an average level of income would make pure transactions, this segment of customers represent 6% of all adult male customers, and most of them are 58 years old.
 
-I would suggest two point if improvement:
 
-Trying several classification models, and choose the best one.
-while defining the pure transaction dataset, I could have added the logic to identify transactions that were made after the period of offer influence defined in the portfolio dataset.
+#### I would suggest two point if improvement:
+
+1. Trying several classification models, and choose the best one.
+2. while defining the pure transaction dataset, I could have added the logic to identify transactions that were made after the period of offer influence defined in the portfolio dataset.
 
 *Link to Medium Post:
 https://lama-alshegri.medium.com/starbucks-capstone-project-an-attempt-to-optimize-offers-f8054abd8ed1
